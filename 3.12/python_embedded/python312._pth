@@ -1,0 +1,7 @@
+python312.zip
+./Scripts
+./DLLs
+.
+
+# Uncomment to run site.main() automatically
+import site

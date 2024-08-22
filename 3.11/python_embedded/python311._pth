@@ -1,0 +1,7 @@
+./python311
+./Scripts
+./DLLs
+.
+
+# Uncomment to run site.main() automatically
+import site

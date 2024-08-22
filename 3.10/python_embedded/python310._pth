@@ -1,0 +1,7 @@
+python310.zip
+./Scritps
+./DLLs
+.
+
+# Uncomment to run site.main() automatically
+import site
